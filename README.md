@@ -50,6 +50,12 @@
 <a href="https://reactjs.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
+<a href="https://webpack.js.org/">
+  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+</a>
+<a href="https://tailwindcss.com/">
+  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+</a>
 <a href="https://firebase.google.com/?hl=pt">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </a>
@@ -78,9 +84,6 @@
 </a>
 <a href="https://nextjs.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</a>
-<a href="https://tailwindcss.com/">
-  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </a>
 
 <h2 align="center">🚩 My projects</h2>
