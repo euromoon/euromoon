@@ -5,34 +5,34 @@
 <br/>
 
 ## 🚀 Languages:
-<a target=_blank href="https://www.javascript.com/">
+<a target="_blank" href="https://www.javascript.com/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
 </a>
-<a target=_blank href="https://www.typescriptlang.org/">
+<a target="_blank" href="https://www.typescriptlang.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 </a>
-<a target=_blank href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </a>
-<a target=_blank href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+<a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </a>
-<a target=_blank href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+<a target="_blank" href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </a>
-<a target=_blank href="https://www.cplusplus.com/">
+<a target="_blank" href="https://www.cplusplus.com/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </a>
-<a target=_blank href="https://git-scm.com/">
+<a target="_blank" href="https://git-scm.com/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </a>
-<a target=_blank href="https://www.python.org/">
+<a target="_blank" href="https://www.python.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </a>
-<a target=_blank href="https://go.dev/">
+<a target="_blank" href="https://go.dev/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 </a>
-<a target=_blank href="https://www.java.com/pt-BR/">
+<a target="_blank" href="https://www.java.com/pt-BR/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </a>
 
@@ -40,25 +40,25 @@
 <br/>
 
 ## 🛠️ Tools:
-<a target=_blank href="https://code.visualstudio.com/">
+<a target="_blank" href="https://code.visualstudio.com/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
-<a target=_blank href="https://nodejs.org/en/">
+<a target="_blank" href="https://nodejs.org/en/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </a>
-<a target=_blank href="https://svelte.dev/">
+<a target="_blank" href="https://svelte.dev/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
 </a>
-<a target=_blank href="https://reactjs.org/">
+<a target="_blank" href="https://reactjs.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
-<a target=_blank href="https://firebase.google.com/?hl=pt">
+<a target="_blank" href="https://firebase.google.com/?hl=pt">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </a>
-<a target=_blank href="https://www.electronjs.org/">
+<a target="_blank" href="https://www.electronjs.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
 </a>
-<a target=_blank href="https://flask.palletsprojects.com/en/2.0.x/">
+<a target="_blank" href="https://flask.palletsprojects.com/en/2.0.x/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
 </a>
 
@@ -66,22 +66,22 @@
 <br/>
 
 ## 📝 Learning / looking to learn:
-<a target=_blank href="https://www.rust-lang.org/">
+<a target="_blank" href="https://www.rust-lang.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </a>
-<a target=_blank href="https://developer.android.com/studio">
+<a target="_blank" href="https://developer.android.com/studio">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
 </a>
-<a target=_blank href="https://dart.dev/">
+<a target="_blank" href="https://dart.dev/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 </a>
-<a target=_blank href="https://flutter.dev/">
+<a target="_blank" href="https://flutter.dev/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </a>
-<a target=_blank href="https://nextjs.org/">
+<a target="_blank" href="https://nextjs.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </a>
-<a target=_blank href="https://tailwindcss.com/">
+<a target="_blank" href="https://tailwindcss.com/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </a>
 
