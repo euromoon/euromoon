@@ -33,6 +33,9 @@
 <a href="https://www.java.com/pt-BR/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </a>
+<a href="https://www.rust-lang.org/">
+  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
+</a>
 
 <br/>
 <br/>
@@ -70,9 +73,6 @@
 <br/>
 
 ## 📝 Learning / looking to learn:
-<a href="https://www.rust-lang.org/">
-  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-</a>
 <a href="https://developer.android.com/studio">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
 </a>
