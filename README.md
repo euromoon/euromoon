@@ -38,7 +38,9 @@
 </a>
 
 <br/>
-<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&layout=compact&theme=tokyonight)
+
 
 ## 🛠️ Tools:
 <a href="https://code.visualstudio.com/">
@@ -85,16 +87,6 @@
 <a href="https://nextjs.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </a>
-
-<br/>
-<br/>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=euromoon&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=euromoon&theme=tokyonight)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&layout=compact&theme=tokyonight)
-
-<br/>
+ 
 
 <h2 align="center">🚩 My projects</h2>
