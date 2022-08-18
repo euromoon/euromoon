@@ -86,4 +86,7 @@
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </a>
 
+https://github-readme-stats.vercel.app/api?username=euromoon&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&layout=compact&theme=tokyonight
+
 <h2 align="center">🚩 My projects</h2>
