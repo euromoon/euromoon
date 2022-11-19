@@ -2,6 +2,8 @@
 
 🧑‍💻 I'm a young programmer looking to share and learn new things.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 Languages:
 <a href="https://www.javascript.com/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
@@ -36,10 +38,6 @@
 <a href="https://www.rust-lang.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </a>
-
-## 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&layout=compact&theme=tokyonight)
 
 ## 🛠️ Tools:
 <a href="https://code.visualstudio.com/">
@@ -86,6 +84,3 @@
 <a href="https://nextjs.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 </a>
- 
-
-<h2 align="center">🚩 My projects</h2>
