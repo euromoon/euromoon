@@ -2,8 +2,6 @@
 
 🧑‍💻 I'm a young programmer looking to share and learn new things.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euromoon&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🚀 Languages:
 <a href="https://www.javascript.com/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
