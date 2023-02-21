@@ -73,7 +73,7 @@
  - [musicolor](https://github.com/euromoon/musicolor)
  - [watchit](https://github.com/euromoon/watchit)
 ### Backend
- - [Telegram Chatbot](https://github.com/euromoon/telegram-chatbot)
+ - [Telegram GPT3 Chatbot](https://github.com/euromoon/telegram-gpt3-chatbot)
  - [Gtools Web (Fullstack - Backend em Golang)](https://github.com/euromoon/GTools-Web)
 ### Android
  - [oquecomer](https://github.com/euromoon/oquecomer)
