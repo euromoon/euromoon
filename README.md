@@ -50,9 +50,6 @@
 <a href="https://reactjs.org/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </a>
-<a href="https://webpack.js.org/">
-  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
-</a>
 <a href="https://tailwindcss.com/">
   <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </a>
@@ -69,16 +66,14 @@
 <br/>
 <br/>
 
-## 📝 Learning / looking to learn:
-<a href="https://developer.android.com/studio">
-  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
-</a>
-<a href="https://dart.dev/">
-  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-</a>
-<a href="https://flutter.dev/">
-  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-</a>
-<a href="https://nextjs.org/">
-  <img style="width: 25pt; display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-</a>
+## 📝 My Projects / Meus Projetos:
+### Web Dev / Desenvolvimento Web:
+ - [pomodorify](https://github.com/euromoon/pomodorify)
+ - [Sample Website](https://github.com/euromoon/sample-website-1)
+ - [musicolor](https://github.com/euromoon/musicolor)
+ - [watchit](https://github.com/euromoon/watchit)
+### Backend
+ - [Telegram Chatbot](https://github.com/euromoon/telegram-chatbot)
+ - [Gtools Web (Fullstack - Backend em Golang)](https://github.com/euromoon/GTools-Web)
+### Android
+ - [oquecomer](https://github.com/euromoon/oquecomer)
