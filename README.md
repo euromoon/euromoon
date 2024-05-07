@@ -3,58 +3,58 @@
 🧑‍💻 I'm a young programmer looking to share and learn new things.
 
 ## 🚀 Languages:
-<a href="https://www.javascript.com/">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/js.svg" >
-</a>
-<a href="https://www.typescriptlang.org/">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/ts.svg" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/html.svg" />
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/css.svg" />
-</a>
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/csharp.svg" />
-</a>
-<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/c.svg" />
-</a>
-<a href="https://isocpp.org/std/the-standard">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/cpp.svg" />
+<a href="https://www.rust-lang.org/">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/rust.svg" />
 </a>
 <a href="https://git-scm.com/">
   <img style="width: 25pt; display: inline-block;" src="icons/languages/git.svg" />
 </a>
-<a href="https://www.python.org/">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/python.svg" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/html.svg" />
 </a>
-<a href="https://go.dev/">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/go.svg" />
+<a href="https://www.javascript.com/">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/js.svg" >
 </a>
 <a href="https://www.java.com/pt-BR/">
   <img style="width: 25pt; display: inline-block;" src="icons/languages/java.svg" />
 </a>
-<a href="https://www.rust-lang.org/">
-  <img style="width: 25pt; display: inline-block;" src="icons/languages/rust.svg" />
+<a href="https://go.dev/">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/go.svg" />
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/css.svg" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/ts.svg" />
+</a>
+<a href="https://isocpp.org/std/the-standard">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/cpp.svg" />
+</a>
+<a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/c.svg" />
+</a>
+<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/csharp.svg" />
+</a>
+<a href="https://www.python.org/">
+  <img style="width: 25pt; display: inline-block;" src="icons/languages/python.svg" />
 </a>
 
 ## 🛠️ Tools:
 <a href="https://www.docker.com/">
   <img style="width: 25pt; display: inline-block;" src="icons/tools/docker.svg" />
 </a>
-<a href="https://github.com/torvalds/linux">
-  <img style="width: 25pt; display: inline-block;" src="icons/tools/linux.svg" />
-</a>
 <a href="https://nginx.org/">
   <img style="width: 25pt; display: inline-block;" src="icons/tools/nginx.svg" />
 </a>
-<a href="https://nodejs.org/en/">
-  <img style="width: 25pt; display: inline-block;" src="icons/tools/node.svg" />
-</a>
 <a href="https://svelte.dev/">
   <img style="width: 25pt; display: inline-block;" src="icons/tools/svelte.svg" />
+</a>
+<a href="https://github.com/torvalds/linux">
+  <img style="width: 25pt; display: inline-block;" src="icons/tools/linux.svg" />
+</a>
+<a href="https://nodejs.org/en/">
+  <img style="width: 25pt; display: inline-block;" src="icons/tools/node.svg" />
 </a>
 <a href="https://reactjs.org/">
   <img style="width: 25pt; display: inline-block;" src="icons/tools/react.svg" />
