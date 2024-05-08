@@ -63,7 +63,7 @@
   <img style="width: 35pt; display: inline-block;" src="icons/tools/next.svg" />
 </a>
 <a href="https://www.prisma.io/">
-  <img style="width: 35pt; display: inline-block;" src="icons/tools/next.svg" />
+  <img style="width: 35pt; display: inline-block;" src="icons/tools/prisma.svg" />
 </a>
 <a href="https://tailwindcss.com/">
   <img style="width: 35pt; display: inline-block;" src="icons/tools/tailwind.svg" />
